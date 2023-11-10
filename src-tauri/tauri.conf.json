@@ -7,7 +7,7 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "hacking-game",
+    "productName": "tauri-supabase-boiler",
     "version": "0.1.0"
   },
   "tauri": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "hacking-game",
+        "title": "tauri-supabase-boiler",
         "width": 800
       }
     ]
